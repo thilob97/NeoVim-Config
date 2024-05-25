@@ -787,11 +787,11 @@ require("lazy").setup({
 		end,
 	},
 
-	{
-		"scottmckendry/cyberdream.nvim",
-		lazy = false,
-		priority = 1000,
-	},
+	--{
+	--	"scottmckendry/cyberdream.nvim",
+	--	lazy = false,
+	--	priority = 1000,
+	--},
 	-- Highlight todo, notes, etc in comments
 	{
 		"folke/todo-comments.nvim",
